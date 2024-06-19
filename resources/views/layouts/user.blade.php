@@ -29,8 +29,8 @@
                 </div>
             </div>
             <div class="flex items-center space-x-1">
-                <a href="/login" class="py-4 px-3 text-gray-700 hover:text-gray-900">Login</a>
-                <a href="/login" class="py-2 px-3 bg-yellow-400 rounded hover:text-gray-900 hover:bg-yellow-300">Signup</a>
+                <a href="login" class="py-4 px-3 text-gray-700 hover:text-gray-900">Login</a>
+                <a href="login" class="py-2 px-3 bg-yellow-400 rounded hover:text-gray-900 hover:bg-yellow-300">Signup</a>
             </div>
         </div>
     </div>
