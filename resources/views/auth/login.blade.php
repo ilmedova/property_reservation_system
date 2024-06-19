@@ -28,7 +28,7 @@
                                 <h5 class="card-title text-center">Hotel Reservation System</h5>
                             </div>
                         </div>
-                        <form onsubmit="return disableButton()" class="form-signin" action="/postLogin" method="POST">
+                        <form onsubmit="return disableButton()" class="form-signin" action="postLogin" method="POST">
                             @csrf
                             <div class="row">
                                 <div class="col-lg-12">
