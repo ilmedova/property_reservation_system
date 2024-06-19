@@ -37,7 +37,7 @@
 <div class="section">
     <div class="moving-image"></div>
 
-    <h1><a class="link-to-portfolio hover-target" href="/property" style="top: 50%; left: 45%; color: #fff; width: fit-content">Start exploring</a></h1>
+    <h1><a class="link-to-portfolio hover-target" href="property" style="top: 50%; left: 45%; color: #fff; width: fit-content">Start exploring</a></h1>
 </div>
 
 <!-- Page cursor
