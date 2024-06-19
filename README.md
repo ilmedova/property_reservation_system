@@ -6,14 +6,12 @@ Its now compatible with laravel 11
 
 ## Examples
 
--   Reservation
-    ![alt text](https://github.com/ilmedova/property_reservation_system/blob/main/example-b.png?raw=true)
-
--   Dashboard
-    ![alt text](https://github.com/ilmedova/property_reservation_system/blob/main/example.png?raw=true)
-
 -   Client
     ![alt text](https://github.com/ilmedova/property_reservation_system/blob/main/client.png?raw=true)
+
+-   Dashboard
+    ![alt text](https://github.com/ilmedova/property_reservation_system/blob/main/example-b.png?raw=true)
+
 
 ## Instalation
 
