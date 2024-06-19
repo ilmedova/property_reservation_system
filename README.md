@@ -4,7 +4,10 @@ Laravel Hotel is an open-source web application built with laravel 8.0, enchance
 
 Its now compatible with laravel 11
 
-## Examples
+### Demo Link
+https://ilmedovamahri.dev/property-reservation-system/
+
+## Screenshots
 
 -   Client
     ![alt text](https://github.com/ilmedova/property_reservation_system/blob/main/client.png?raw=true)
@@ -61,9 +64,6 @@ npm run build
 
 -   Email: admin@example.com
 -   Password: admin
-
-### Demo Link
-https://ilmedovamahri.dev/property-reservation-system/
 
 
 ## Laravel License
